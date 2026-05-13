@@ -25,3 +25,9 @@ and sub-OUs representing organizational levels within each department.
 ## Screenshots
 - Full OU tree expanded in AD Users and Computers
 - Sales department showing populated sub-OUs
+
+![Full OU tree showing all departments](Screenshot_2026-04-30_202245.png)
+
+![Logistics Employees OU with users](AD_OU_Tree.png)
+
+![Visual Employees OU with users](AD_OU_Tree_2.png)
