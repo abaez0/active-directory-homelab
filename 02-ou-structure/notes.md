@@ -28,6 +28,6 @@ and sub-OUs representing organizational levels within each department.
 
 ![Full OU tree showing all departments](https://github.com/abaez0/active-directory-homelab/blob/main/02-ou-structure/Screenshot%202026-04-30%20202245.png)
 
-![Logistics Employees OU with users](https://github.com/abaez0/active-directory-homelab/blob/main/02-ou-structure/AD_OU_Tree.png)
+![Logistics Employees OU with users](https://github.com/abaez0/active-directory-homelab/blob/main/02-ou-structure/AD%20OU%20Tree.png)
 
-![Visual Employees OU with users](https://github.com/abaez0/active-directory-homelab/blob/main/02-ou-structure/AD_OU_Tree_2.png)
+![Visual Employees OU with users](https://github.com/abaez0/active-directory-homelab/blob/main/02-ou-structure/AD%20OU%20Tree%202.png)
