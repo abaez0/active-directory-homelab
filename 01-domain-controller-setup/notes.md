@@ -11,7 +11,7 @@
 ## Screenshots
 - AD Users and Computers open showing homelab.local domain tree
 - Server Manager showing AD DS installed
-![AD Users and Computers - homelab.local domain confirmed](Screenshot_2026-04-30_195708.png)
+![AD Users and Computers - homelab.local domain confirmed](Screenshot%202026-04-30%20195708.png)
 
 
 ## Key Decisions
