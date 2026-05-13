@@ -64,7 +64,7 @@ Example: two users with same pattern = chben / chben1
 - Temporary password set for all accounts
 - User must change password at next logon — enabled on all accounts
 - Accounts placed in correct department and level sub-OU
-- 
+  
 ![Jacob White General tab showing full name and OU placement in IT Admin](https://github.com/abaez0/active-directory-homelab/blob/main/03-user-accounts/Section%202%20Gen%20Tab.png)
 
 ![Jacob White Account tab showing username jawhi and homelab.local domain](https://github.com/abaez0/active-directory-homelab/blob/main/03-user-accounts/Section%202%20Acc%20Tab.png)
