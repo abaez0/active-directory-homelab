@@ -33,3 +33,7 @@ Scope: Global | Type: Security
 ## Screenshots
 - Sales_All group Properties showing Members tab
 - All_Managers group Properties showing cross-department membership
+
+![Sales_All group members showing all 7 users with OU paths](https://github.com/abaez0/active-directory-homelab/blob/main/04-security-groups/AD%20Sales_ALL%20Group.png)
+
+![All_Managers group showing cross-department managers](https://github.com/abaez0/active-directory-homelab/blob/main/04-security-groups/AD%20All_Managers.png)
