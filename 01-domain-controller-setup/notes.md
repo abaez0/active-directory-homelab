@@ -11,6 +11,8 @@
 ## Screenshots
 - AD Users and Computers open showing homelab.local domain tree
 - Server Manager showing AD DS installed
+<img width="971" height="925" alt="image" src="https://github.com/user-attachments/assets/8fc0db53-ecd4-46fa-a294-04999640fac9" />
+
 
 ## Key Decisions
 - Used .local suffix to avoid conflicts with public DNS
