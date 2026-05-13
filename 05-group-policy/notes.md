@@ -53,3 +53,13 @@
 - Password Policy settings
 - Account Lockout Policy settings
 - gpresult /r output on Windows 10 client
+
+![All 5 GPOs created and enabled in Group Policy Management](https://github.com/abaez0/active-directory-homelab/blob/main/05-group-policy/All%205%20GPOs%20Created%20and%20Set.png)
+
+![Password Policy linked to homelab.local domain](https://github.com/abaez0/active-directory-homelab/blob/main/05-group-policy/GPO%20PassPolicy%20linked%20to%20lab.png)
+
+![Password Policy settings configured](https://github.com/abaez0/active-directory-homelab/blob/main/05-group-policy/AD%20Password%20Policy.png)
+
+![Account Lockout Policy settings configured](https://github.com/abaez0/active-directory-homelab/blob/main/05-group-policy/AD%20Account%20Lockout%20Policy.png)
+
+![net accounts output confirming all policy values enforced](https://github.com/abaez0/active-directory-homelab/blob/main/05-group-policy/Updated%20Configured%20Domain%20Security%20Policy.png)
