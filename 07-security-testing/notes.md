@@ -60,3 +60,15 @@
 - Event ID 4740 detail showing HOMELAB\chben locked out from WIN10-CLIENT
 - Control Panel access denied message for Sales Employee
 - Login banner displaying on Windows 10 client
+
+![Login banner displaying Authorized Access Only before login](https://github.com/abaez0/active-directory-homelab/blob/main/07-security-testing/Updated%20Login%20Banner.png)
+
+![Control Panel restriction popup on Windows 10 for Sales Employee](https://github.com/abaez0/active-directory-homelab/blob/main/07-security-testing/No%20Control%20Panel%20Access.png)
+
+![Account lockout message after 5 failed login attempts](https://github.com/abaez0/active-directory-homelab/blob/main/07-security-testing/Locked%20Account.png)
+
+![Event Viewer filtered to Event ID 4625 showing 9 failed logon events](https://github.com/abaez0/active-directory-homelab/blob/main/07-security-testing/Event%20Viewer.png)
+
+![Event 4625 detail showing failure reason bad password](https://github.com/abaez0/active-directory-homelab/blob/main/07-security-testing/Failed%20Password%20Event.png)
+
+![Event 4740 detail showing HOMELAB chben locked out from WIN10-CLIENT](https://github.com/abaez0/active-directory-homelab/blob/main/07-security-testing/Details%20for%20Failed%20Login.png)
