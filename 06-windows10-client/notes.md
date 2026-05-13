@@ -36,3 +36,7 @@
 - Windows 10 login screen showing HOMELAB domain
 - Desktop logged in as Jacob White (domain user)
 - gpresult /r output showing applied GPOs
+
+![Windows 10 login screen showing Sign in to HOMELAB domain](https://github.com/abaez0/active-directory-homelab/blob/main/06-windows10-client/WIN10-CLIENT%20joined%20homelab.png)
+
+![Windows 10 desktop with Jacob White logged in as domain user](https://github.com/abaez0/active-directory-homelab/blob/main/06-windows10-client/Jacob%20White%20is%20a%20user%20in%20the%20domain.png)
