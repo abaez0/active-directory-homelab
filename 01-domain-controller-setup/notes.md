@@ -11,7 +11,7 @@
 ## Screenshots
 - AD Users and Computers open showing homelab.local domain tree
 - Server Manager showing AD DS installed
-<img width="971" height="925" alt="image" src="https://github.com/user-attachments/assets/8fc0db53-ecd4-46fa-a294-04999640fac9" />
+![AD Users and Computers - homelab.local domain confirmed](Screenshot_2026-04-30_195708.png)
 
 
 ## Key Decisions
